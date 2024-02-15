@@ -1,3 +1,7 @@
+a {
+    text-decoration: none;
+}
+
 img {
     width: 100%;    
 }
@@ -8,7 +12,7 @@ img {
 }
 
 .creditos a {
-    color: #777;
+    color: #bbb;
 }
 
 h2 {
